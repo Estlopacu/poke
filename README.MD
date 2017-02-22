@@ -1,3 +1,9 @@
-Playing around with react-es2016-nodejs
+# Starting Proyect for React
 
-Starting react proyect using Webpack 2.
+# Using react es2016 nodejs webpack2 
+
+### Contributors
+Luis Esteban López Acuña 
+estlopacu@gmail.com
+
+2017
