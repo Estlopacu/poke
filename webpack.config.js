@@ -1,7 +1,9 @@
+var path = require('path');
+
 module.exports = {
     entry: './main.js',
     output: {
-        path: './',
+        path: path.resolve(__dirname, 'dist'),
         filename: 'index.js'
     },
     devServer: {
